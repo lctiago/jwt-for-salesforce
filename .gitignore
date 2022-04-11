@@ -1,0 +1,5 @@
+*.pem
+*.cer
+jwt.txt
+node_modules
+.env
